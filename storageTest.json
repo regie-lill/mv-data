@@ -17,6 +17,10 @@
 	],
 	"contact-item": [
 		{
+			"titre": "Dev",
+			"Nom": "Samar"
+		},
+		{
 			"titre": "Administration",
 			"Nom": "Fritsch",
 			"Prenom": "¨Pierre",
