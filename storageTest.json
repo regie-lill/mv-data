@@ -8,5 +8,54 @@
 		"Nom Prénom",
 		"Nom Prénom"
 	],
-	"phrase": "Fais de ta vie un reve et d'un reve une réalité  "
+	"phrase": "Fais de ta vie un reve et d'un reve une réalité  ",
+	"collection": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom "
+		}
+	],
+	"contact-item": [
+		{
+			"titre": "Administration",
+			"Nom": "Fritsch",
+			"Prenom": "¨Pierre",
+			"Numéro": "0033658      "
+		}
+	],
+	"collection1": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom ",
+			"Contact": " A modifier"
+		}
+	],
+	"collection2": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom ",
+			"Contact": " A modifier"
+		}
+	],
+	"collection3": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom ",
+			"Contact": " A modifier"
+		}
+	],
+	"collection4": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom ",
+			"Contact": " A modifier"
+		}
+	],
+	"collection5": [
+		{
+			"Nom": " Nom ",
+			"Prenom": " Prénom ",
+			"Contact": " A modifier"
+		}
+	]
 }
